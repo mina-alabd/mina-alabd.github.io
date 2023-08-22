@@ -1,5 +1,8 @@
 {
     "headline": "Mina Masoud",
+    "launcher": {
+        "image": "http://rbtv.msx.benzac.de/assets/launcher.png"
+    }
     "menu": [
         {
             "icon": "movie",
