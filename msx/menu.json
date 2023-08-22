@@ -1,10 +1,10 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "Mina Masoud",
     "menu": [
         {
             "icon": "info",
-            "label": "Welcome",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+            "label": "firebase",
+            "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/json"
         },
         {
             "type": "separator",
