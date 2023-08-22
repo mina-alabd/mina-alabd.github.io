@@ -1,9 +1,6 @@
 {
     "name": "Mina",
     "version": "1.0.1",
-    "parameter": "menu:http://mina-alabd.github.io/msx/menu.json"
-"launcher": {
-        "image": "http://rbtv.msx.benzac.de/assets/launcher.png"
-    }
+    "parameter": "menu:http://mina-alabd.github.io/msx/menu.json
 
 }
