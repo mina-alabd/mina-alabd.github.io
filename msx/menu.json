@@ -5,12 +5,12 @@
         {
             "icon": "movie",
             "label": "فيديوهات",
-            "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/.json"
+            "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/video/.json"
         },
         {
             "icon": "music-note",
             "label": "Audios",
-            "data": "https://benzac-de.github.io/msx/data/base/audios.json"
+            "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/audio/.json"
         }
         
     ]
