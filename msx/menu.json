@@ -9,7 +9,7 @@
         },
         {
             "icon": "music-note",
-            "label": "Audios",
+            "label": "اغاني",
             "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/audio/.json"
         }
         
