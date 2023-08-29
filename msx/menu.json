@@ -11,7 +11,15 @@
             "icon": "music-note",
             "label": "اغاني",
             "data": "https://aymanegy-7af76-default-rtdb.firebaseio.com/audio/.json"
+        }, 
+
+
+        {
+            "icon": "view-array",
+            "label": "Second Pages",
+            "data": "https://benzac-de.github.io/msx/data/extended/pages1.json"
         }
+    ]
         
     ]
 }
